@@ -1,7 +1,7 @@
 <?php
 try {
     $host = 'localhost';
-    $dbname = 'junia';
+    $dbname = 'tp9/10';
     $username = 'root';
     $password = 'root'; 
     
